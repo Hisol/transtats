@@ -61,4 +61,5 @@ class TranstatsMonitorTest extends \PHPUnit_Framework_TestCase
 		sleep( 1 );
 		$this->assertGreaterThan( 2, $instance->stop_timer( '2sec' ) );
 	}
+
 }

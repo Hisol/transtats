@@ -109,4 +109,14 @@ class TranstatsMonitor
 		$this->active_timers = array();
 		$this->complete_timers = array();
 	}
+
+	/**
+	 * Save the timer statisics in the database.
+	 * This doesn't perform any average calculations, simply logs data to minimise performance impact
+	 */
+	public function save_data() {
+		//todo actually write code to save timer data
+		var_dump( $this->active_timers );
+		var_dump( $this->complete_timers );
+	}
 }

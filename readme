@@ -1,1 +1,37 @@
-HiSoL TranStats - Transient stats
+=== Plugin Name ===
+Contributors: HiSoL
+Donate link: http://example.com/
+Tags: transients, performance, statistics
+Requires at least: 4.0
+Tested up to: 4.4
+Stable tag: 0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Record performance metrics of transients within your site.
+
+== Description ==
+
+
+== Installation ==
+
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+1. Activate the plugin through the 'Plugins' screen in WordPress
+1. Use the Settings->Plugin Name screen to configure the plugin
+
+
+== Frequently Asked Questions ==
+
+== Screenshots ==
+
+== Changelog ==
+
+
+== Upgrade Notice ==
+
+
+== Arbitrary section ==
+
+You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
+plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
+"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
